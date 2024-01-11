@@ -1,0 +1,1 @@
+export { HelloPlugin as plugin } from './HelloPlugin';
